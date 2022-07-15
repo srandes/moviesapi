@@ -31,5 +31,5 @@ mvn clean package
 
 # Arquivo de carga de dados
 
-O arquivo de carga de dados movielist.csv foi version em: src\main\resources
+O arquivo de carga de dados movielist.csv foi versionado em: src\main\resources
 
